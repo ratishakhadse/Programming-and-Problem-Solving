@@ -19,7 +19,7 @@ Write a Python program that prompts the user to enter the triangle's base and he
 
 ## Execution
 <p align="center">
-  <img src="Area_Of_Triangle.drawio.png" width="900">
+  <img src="area of triangle.png" width="900">
 </p>
 
 
