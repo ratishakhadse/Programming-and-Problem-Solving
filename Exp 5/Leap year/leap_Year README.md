@@ -24,7 +24,7 @@ Write a Python program that prompts the user to enter a year. The program should
 
 ## Execution
 <p align="center">
-  <img src="Leap year.png" width="900">
+  <img src="leap year.png" width="900">
 </p>
 
 
