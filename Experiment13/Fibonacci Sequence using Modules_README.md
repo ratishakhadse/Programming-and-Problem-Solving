@@ -39,6 +39,6 @@ Fibbo.drawio.png)
 
 ## Execution
 <p align="center">
-  <img src="Fibo.png" width="900">
+  <img src="m.png" width="900">
 </p>
 
